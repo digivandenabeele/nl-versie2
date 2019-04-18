@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3ba versie 2",
-    "currentPage": "index.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -282,6 +282,19 @@
                 "active": false
               },
               {
+                "tags": "Sympathieke",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-2225.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2225-800x942.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "olie op doek, 21 x 35 cm<br>",
+                "active": true
+              },
+              {
                 "tags": "Bewegende",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -487,7 +500,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "olie op doek, 67 x 76 cm<br>",
-                "active": true
+                "active": false
               }
             ]
           }
